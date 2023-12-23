@@ -8,7 +8,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitendrasingh1729/) 
 
-##Solving coding Problems
+## 🧑‍💻Solving coding Problems
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/hitendra_singh1729/)
 
 # 💻 Languages and Tools:
